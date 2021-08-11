@@ -60,9 +60,6 @@ rogerio.oliveira@mackenzie.br
 13/12 **PROVA FINAL**
 
 
-<br />
-
-**(\*\*)** **Atenção, semanas com feriado. Os conteúdos serão tratados com Auto Estudo sendo, dentro do possível, desenvolvidos parcial ou totalmente na semana anterior ou seguinte. Os exercícios, entretanto, seguem a programação normalmente.**  
 
 <br />
 
