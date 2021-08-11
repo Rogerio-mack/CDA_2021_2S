@@ -75,6 +75,8 @@ MF = .5 MI1 + .5 MI2 + partic (Avalia)
 
 ## Leituras 
 
+[Rogério de Oliveira. Ciência de Dados com R](http://meusite.mackenzie.br/rogerio/CDABook/_book/) (1o e 2o Bimestre)
+
 [CRISP_DM 1.0](https://www.the-modeling-agency.com/crisp-dm.pdf) (2000) (1o Bimestre)
 
 Fawcett, Tom & Provost, Foster. (2013). Data Science for Business. 1. Introduction: Data-Analytic Thinking (1o Bimestre)
@@ -85,12 +87,37 @@ Martin Zinkevich. (2019) [Rules of Machine Learning: Best Practices for ML Engin
 
 ## Bibliografia Complementar
 
+<img src="https://bookdown.org/tpinto_home/Regression-and-Classification/bca.png" width="100"/>
+
+Armando Teixeira-Pinto & Jaroslaw Harezlak. Machine Learning for Biostatistics
+
+> [Introduction](https://bookdown.org/tpinto_home/Introduction/)
+
+> [Regression-and-Classification](https://bookdown.org/tpinto_home/Regression-and-Classification/)
+
+> [Resampling](https://bookdown.org/content/68ffa8db-a8cf-468c-94cd-e0ff75ad9f33/) (avançado)
+
+> [Regularisation](https://bookdown.org/tpinto_home/Regularisation/) (avançado)
+
+> [Beyond-Linearity](https://bookdown.org/tpinto_home/Beyond-Linearity/)
+
+> [Beyond-Additivity](https://bookdown.org/tpinto_home/Beyond-Additivity/)
+
+> [Unsupervised-learning](https://bookdown.org/tpinto_home/Unsupervised-learning/)
+
+<br />
+
+<img src="https://bradleyboehmke.github.io/HOML/images/homl-cover.jpg" width="100"/>
+
+[Bradley Boehmke & Brandon Greenwell. Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
+
+<img src="https://d33wubrfki0l68.cloudfront.net/b88ef926a004b0fce72b2526b0b5c4413666a4cb/24a30/cover.png" width="100"/>
+
+[Book](https://r4ds.had.co.nz/index.html)
+
 <img src="https://jakevdp.github.io/PythonDataScienceHandbook/figures/PDSH-cover.png" width="100"/>
 
 [Book](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-<img src="https://learning.oreilly.com/library/cover/9781492041122/250w/" width="100"/>
-
-[Code e Exemplos](https://github.com/joelgrus/data-science-from-scratch)
-
+[Sudhakaran Prabakaran, Matt Wayland and Chris Penfold. An Introduction to Machine Learning](https://bioinformatics-training.github.io/intro-machine-learning-2017/)
 
