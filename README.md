@@ -21,73 +21,37 @@ rogerio.oliveira@mackenzie.br
 
 <br />
 
-[Fórum Slack](https://join.slack.com/t/slack-2mk7078/shared_invite/zt-udathnu8-7cBt~qaVijRRap4UVqoiZA) Todas as turmas
+[Fórum Slack](https://join.slack.com/t/slack-xt29699/shared_invite/zt-uegpy5i8-t905ULimaWmCHSyH4AWcFw)  
 
 <br />
 
 ## Programação Semanal
 
-09/08 [Introdução à Ciência de Dados e o Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T1__Introducao_Ciencia_de_Dados_e_ML.ipynb) | [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T1__Introducao_Ciencia_de_Dados_e_ML_Lab.ipynb) 
+09/08 Introdução à Ciência de Dados e o Aprendizado de Máquina | vídeo
 
-> [vídeo teoria](http://meusite.mackenzie.br/rogerio/TIC2021S2/Aula_10_08.mp4) | [vídeo lab](http://meusite.mackenzie.br/rogerio/TIC2021S2/Lab_10_08.mp4) | solução 
+16/08 EDA Exploração Inicial dos Dados | vídeo
 
-16/08 EDA Exploração Inicial dos Dados | [Lab]
+23/08 Regressão Linear | vídeo
 
-> vídeo teoria | vídeo lab | solução
+13/09 Regressão Logística | vídeo
 
-23/08 [Testes de Hipóteses](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T3_Testes_de_Hipoteses.ipynb) |
-[Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T3_Testes_de_Hipoteses_Lab.ipynb)
+20/09 K-Vizinhos mais Próximos | vídeo
 
-> vídeo teoria | vídeo lab | solução
-
-30/08 **SEMANA DA ESCOLA DE ENGENHARIA**
-
-06/09 **(\*\*)** [Regressão Linear](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T4_Regressao_Linear.ipynb) |
-[Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T4_Regressao_Linear_Lab.ipynb)
-
-> video teoria | video lab | solução 
-
-13/09 Regressão Logística | [Lab] 
-
-> vídeo teoria | vídeo lab | solução
-
-20/09 [K-Vizinhos mais Próximos](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T7_Knn.ipynb) |
-[Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T7_Knn_Lab.ipynb)
-
-> vídeo teoria | vídeo lab | solução 
-
-27/09 [Outros Modelos: Random Forest, SVM](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T10_Outros_Modelos_Sup.ipynb) | [Lab]
-
-> vídeo teoria | vídeo lab | solução 
+27/09 Outros Modelos: Random Forest, SVM | vídeo
 
 04/10 **AVALIAÇÃO INTERMEDIÁRIA I**
 
-11/10 **(\*\*)** [Kmédias](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T11_Kmedias.ipynb) |
-[Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T11_Kmedias_Lab.ipynb)
+11/10 Kmédias | vídeo
 
-> vídeo teoria | vídeo lab | solução 
+18/10 Clusterização Hierárquica | vídeo
 
-18/10 [Clusterização Hierárquica](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T12_HCluster.ipynb) |
-[Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T12_HCluster_Lab.ipynb)
+25/10 Regras de Associação* | vídeo
 
-> vídeo teoria | vídeo lab | solução 
+01/11 Sistemas de Recomendação* | vídeo
 
-25/10 Regras de Associação | [Lab]
+08/11 Introdução às Redes Neurais | vídeo
 
-> vídeo teoria | vídeo lab | solução 
-
-01/11 **(\*\*)** Sistemas de Recomendação | [Lab]
-
-> vídeo teoria | vídeo lab | solução 
-
-08/11 [Introdução às Redes Neurais](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T17_Redes_Neurais.ipynb) |
-[Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T17_Redes_Neurais_Lab.ipynb)
-
-> vídeo teoria | vídeo lab | solução 
-
-15/11 Uso de Soluções de ML em Nuvem | [Lab]
-
-> vídeo teoria | vídeo lab | solução 
+15/11 Uso de Soluções de ML em Nuvem | vídeo
 
 22/11 **AVALIAÇÃO INTERMEDIÁRIA II**
 
@@ -102,7 +66,7 @@ rogerio.oliveira@mackenzie.br
 
 <br />
 
-## Critério de Avaliação
+## Critério de Avaliação*
 
 MI_1 = .5 N1 (Teoria e Lab) + .5 Exercicios 1 (Teoria e Lab)
 
