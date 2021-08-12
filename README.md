@@ -12,7 +12,7 @@ rogerio.oliveira@mackenzie.br
 ## Links dos Encontros Síncronos, Conteúdos e Fórum
 
 [Turma 6H](https://zoom.us/j/93200048589?pwd=b0JwNGEwMnBsNHMxVTFCb252ZmhyQT09) (Zoom)
-> Teoria, terça-feira 9:20h às 11:00h  
+> Teoria, quinta-feira 9:20h às 11:00h  
 > +EAD (Disciplina Híbrida)
 
 <br />
