@@ -27,7 +27,7 @@ rogerio.oliveira@mackenzie.br
 
 ## Programação Semanal
 
-09/08 Introdução à Ciência de Dados e o Aprendizado de Máquina | vídeo
+09/08 [Introdução à Ciência de Dados e o Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T1__Introducao_Ciencia_de_Dados_e_ML.ipynb) | vídeo
 
 16/08 EDA Exploração Inicial dos Dados | vídeo
 
