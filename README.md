@@ -29,7 +29,17 @@ rogerio.oliveira@mackenzie.br
 
 09/08 [Introdução à Ciência de Dados e o Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T1__Introducao_Ciencia_de_Dados_e_ML.ipynb) | [vídeo](http://meusite.mackenzie.br/rogerio/CDA2021S2/Aula_12_08.mp4)
 
-16/08 EDA Exploração Inicial dos Dados | vídeo
+> Assista [O que é Ciência de Dados?](https://youtu.be/ykSILAQQu6o)
+
+> [R Open Course](https://www.datacamp.com/community/open-courses/introducao-a-r)
+
+16/08 EDA Exploração Inicial dos Dados | [vídeo](http://meusite.mackenzie.br/rogerio/CDA2021S2/CDA_Aula_20210819.mp4)
+
+> [Ciência de Dados com R](http://meusite.mackenzie.br/rogerio/CDABook/_book/index.html) Cap. 1 e 2
+
+> [Exercícios](https://colab.research.google.com/github/Rogerio-mack/CDA_2021_2S/blob/main/CDA_A2.ipynb) (responda em seguida o questionário no Moodle)
+
+> [R Tutorial](http://www.r-tutor.com/)
 
 23/08 Regressão Linear | vídeo
 
@@ -65,9 +75,9 @@ rogerio.oliveira@mackenzie.br
 
 ## Critério de Avaliação*
 
-MI_1 = .5 N1 (Teoria e Lab) + .5 Exercicios 1 (Teoria e Lab)
+MI_1 = .7 N1 + .3 Exercicios  
 
-MI_2 = .5 N2 (Teoria e Lab) + .5 Exercicios 2 (Teoria e Lab) + .1 Projeto Opcional
+MI_2 = .7 N2 + .3 Exercicios 
 
 MF = .5 MI1 + .5 MI2 + partic (Avalia)
 
