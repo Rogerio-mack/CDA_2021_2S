@@ -33,7 +33,7 @@ rogerio.oliveira@mackenzie.br
 
 > [R Open Course](https://www.datacamp.com/community/open-courses/introducao-a-r)
 
-16/08 EDA Exploração Inicial dos Dados | [vídeo](http://meusite.mackenzie.br/rogerio/CDA2021S2/CDA_Aula_20210819.mp4)
+16/08 EDA Exploração Inicial dos Dados | [vídeo](http://meusite.mackenzie.br/rogerio/videos/CDA_Aula_20210819.mp4)
 
 > [Ciência de Dados com R](http://meusite.mackenzie.br/rogerio/CDABook/_book/index.html) Cap. 1 e 2
 
