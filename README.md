@@ -47,9 +47,9 @@ rogerio.oliveira@mackenzie.br
 
 > Exercícios constam do próprio capítulo (responda em seguida o questionário no Moodle)
 
-> Material complementar
+> * Material complementar
 
->> [O que é Aprendizado Supervisionado](https://c3.ai/introduction-what-is-machine-learning/supervised-learning/)
+>>>> [O que é Aprendizado Supervisionado?](https://c3.ai/introduction-what-is-machine-learning/supervised-learning/)
 
 >>>> Veja aqui como são calculados os coeficientes: [Regressão Linear Simples](https://en.wikipedia.org/wiki/Simple_linear_regression)
 
