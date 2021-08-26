@@ -43,6 +43,10 @@ rogerio.oliveira@mackenzie.br
 
 23/08 Regressão Linear | vídeo
 
+> [Ciência de Dados com R](http://meusite.mackenzie.br/rogerio/CDABook/_book/index.html) Cap. 7
+
+> Exercícios constam do próprio capítulo (responda em seguida o questionário no Moodle)
+
 13/09 Regressão Logística | vídeo
 
 20/09 K-Vizinhos mais Próximos | vídeo
