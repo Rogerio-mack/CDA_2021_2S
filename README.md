@@ -45,9 +45,9 @@ rogerio.oliveira@mackenzie.br
 
 > [Ciência de Dados com R](http://meusite.mackenzie.br/rogerio/CDABook/_book/index.html) Cap. 7
 
-> Exercícios constam do próprio capítulo (responda em seguida o questionário no Moodle)
+> [Exercícios](http://meusite.mackenzie.br/rogerio/CDABook/_book/index.html) constam do próprio capítulo (responda em seguida o questionário no Moodle)
 
-> * Material complementar
+> **Material complementar**
 
 >>>> [O que é Aprendizado Supervisionado?](https://c3.ai/introduction-what-is-machine-learning/supervised-learning/)
 
