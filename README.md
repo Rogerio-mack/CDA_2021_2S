@@ -38,6 +38,7 @@ rogerio.oliveira@mackenzie.br
 > [Ciência de Dados com R](http://meusite.mackenzie.br/rogerio/CDABook/_book/index.html) Cap. 1 e 2
 
 > [Exercícios](https://colab.research.google.com/github/Rogerio-mack/CDA_2021_2S/blob/main/CDA_A2.ipynb) (responda em seguida o questionário no Moodle)
+[A1 Exemplo](https://github.com/Rogerio-mack/CDA_2021_2S/blob/main/A1Exemplo.R)
 
 > [R Tutorial](http://www.r-tutor.com/)
 
