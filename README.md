@@ -47,6 +47,17 @@ rogerio.oliveira@mackenzie.br
 
 > Exercícios constam do próprio capítulo (responda em seguida o questionário no Moodle)
 
+> Material complementar
+
+>> [O que é Aprendizado Supervisionado](https://c3.ai/introduction-what-is-machine-learning/supervised-learning/)
+
+>>>> Veja aqui como são calculados os coeficientes: [Regressão Linear Simples](https://en.wikipedia.org/wiki/Simple_linear_regression)
+
+>>>> O modelo linear de fato dos dados representa os dados?  [Coeficiente de Determinação](https://en.wikipedia.org/wiki/Coefficient_of_determination)
+
+>>>> [Linear Regression in R-tutor](http://www.r-tutor.com/elementary-statistics/simple-linear-regression/estimated-simple-regression-equation)
+[Full Code](https://meusite.mackenzie.br/rogerio/TIC/CDA/Linear_Regression_Faithful.R)
+
 13/09 Regressão Logística | vídeo
 
 20/09 K-Vizinhos mais Próximos | vídeo
