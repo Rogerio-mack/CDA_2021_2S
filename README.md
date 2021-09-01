@@ -42,7 +42,7 @@ rogerio.oliveira@mackenzie.br
 
 > [R Tutorial](http://www.r-tutor.com/)
 
-23/08 Regressão Linear | vídeo(http://meusite.mackenzie.br/rogerio/videos/CDA_Aula_20210826.mp4)
+23/08 Regressão Linear | [vídeo](http://meusite.mackenzie.br/rogerio/videos/CDA_Aula_20210826.mp4)
 
 > [Ciência de Dados com R](http://meusite.mackenzie.br/rogerio/CDABook/_book/index.html) Cap. 7
 
