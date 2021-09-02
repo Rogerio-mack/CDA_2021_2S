@@ -59,7 +59,7 @@ rogerio.oliveira@mackenzie.br
 >> [Linear Regression in R-tutor](http://www.r-tutor.com/elementary-statistics/simple-linear-regression/estimated-simple-regression-equation)
 [Full Code](https://meusite.mackenzie.br/rogerio/TIC/CDA/Linear_Regression_Faithful.R)
 
-30/08 Regressão Logística | [vídeo]((http://meusite.mackenzie.br/rogerio/videos/CDA_Aula_20210902.mp4))
+30/08 Regressão Logística | [vídeo](http://meusite.mackenzie.br/rogerio/videos/CDA_Aula_20210902.mp4)
 
 > [Teoria](http://meusite.mackenzie.br/rogerio/CDA2021S2/CDA_logistic.html)
 
