@@ -61,9 +61,15 @@ rogerio.oliveira@mackenzie.br
 
 13/09 Regressão Logística | vídeo
 
-20/09 K-Vizinhos mais Próximos | vídeo
+> [Teoria](http://meusite.mackenzie.br/rogerio/CDA2021S2/CDA_logistic.html)
 
-27/09 Outros Modelos: Random Forest, SVM | vídeo
+> [Exercícios](http://meusite.mackenzie.br/rogerio/CDA2021S2/CDA_logistic_exercicios.html)
+
+19/09 K-Vizinhos mais Próximos | vídeo
+
+20/09 Árvores de Decisão e Outro Modelos | vídeo
+
+27/09 Revisão | vídeo
 
 04/10 **AVALIAÇÃO INTERMEDIÁRIA I**
 
