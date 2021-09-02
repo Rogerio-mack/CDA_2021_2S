@@ -59,7 +59,7 @@ rogerio.oliveira@mackenzie.br
 >> [Linear Regression in R-tutor](http://www.r-tutor.com/elementary-statistics/simple-linear-regression/estimated-simple-regression-equation)
 [Full Code](https://meusite.mackenzie.br/rogerio/TIC/CDA/Linear_Regression_Faithful.R)
 
-13/09 Regressão Logística | vídeo
+30/08 Regressão Logística | [vídeo]((http://meusite.mackenzie.br/rogerio/videos/CDA_Aula_20210902.mp4))
 
 > [Teoria](http://meusite.mackenzie.br/rogerio/CDA2021S2/CDA_logistic.html)
 
@@ -67,10 +67,11 @@ rogerio.oliveira@mackenzie.br
 
 >> Material complementar [Introdução ao Aprendizado de Máquina](http://meusite.mackenzie.br/rogerio/ML/The-InfoQ-eMag-Introduction-to-Machine-Learning.pdf)
 
+06/09 K-Vizinhos mais Próximos | vídeo
 
-19/09 K-Vizinhos mais Próximos | vídeo
+13/09 Árvores de Decisão | vídeo
 
-20/09 Árvores de Decisão e Outro Modelos | vídeo
+20/09 Outros Modelos | vídeo
 
 27/09 Revisão | vídeo
 
