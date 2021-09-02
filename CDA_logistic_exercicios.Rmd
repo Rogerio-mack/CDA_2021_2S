@@ -1,0 +1,227 @@
+---
+title: "Ciência de Dados - Regressão Logística - Exercícios."
+author: "Rogério de Oliveira"
+date: "`r Sys.Date()`"
+description: Ciência de Dados - Regressão Logística.
+---
+
+# Regressão Logística
+***
+<img src="http://meusite.mackenzie.br/rogerio/mackenzie_logo/UPM.2_horizontal_vermelho.jpg"  width=300, align="right">
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+
+```
+
+## Exercícios
+
+### Exercício 1
+
+1. Crie um modelo de regressão logística para classificar os veículos de `mtcars` como automáticos e não automáticos (atributo `am`), tendo como base as variáveis preditoras `hp`, e peso, `wt`. É o mesmo que criamos no material de teoria, mas agora, tente criar o modelo por conta própria!  
+
+**Solução**
+```{r include=FALSE}
+fit = glm(formula = am ~ hp + wt, data=mtcars, family=binomial)
+summary(fit)
+``` 
+
+2. Empregue o modelo obtido para fazer predição de TODOS os veículos de `mtcars`. Compare os valores da predição com os valores reais da base. Verifique o número de acertos e erros do modelo. 
+
+a. Quantos veículos classificados corretamente?
+b. Qual o percentual de acerto?
+
+**Solução**
+```{r include=FALSE}
+newdata = mtcars[,c('hp','wt')]
+prediction = predict(fit, newdata, type="response")
+cbind(mtcars$am, prediction>0.5)
+cm = table(prediction>0.5,mtcars$am)
+
+print(cm)
+sprintf('Percentual de acerto %0.2f', sum(diag(cm)/sum(cm)))
+
+# Na diagonal encontram-se os acertos. Fora da diagonal as predições que diferem do valor real. 
+
+# a. Quantos veículos classificados corretamente? 30
+# b. Qual o percentual de acerto? 0.94
+
+
+```
+
+### Exercício 2
+
+Empregue agora a base de dados Cars93.
+
+```{r}
+library(MASS)
+head(Cars93)
+
+```
+
+Crie então modelos de regressão logística para classificar a origem dos veículos. 
+
+1. Crie um modelo de regressão logística para classificar a origem dos veículos a partir dos valores de `Price`, `Weight` e `Length`, e responda:
+
+1.1. Qual atributo apresenta coeficiente com pouca significância? 
+
+** Dica ** Certifique-se de não haverem dados ausentes a serem empregados na regressão. Você precisará também converter o atributo objetivo para numérico, 1 e 0, ou adicionar um novo campo para isso.
+
+**Solução**
+```{r include=FALSE}
+names(which(colSums(is.na(Cars93)) > 0)) # Verifique antes que não existem valores ausentes! ;-)
+
+myCars = Cars93[, c('Price','Weight','Length','Origin')]
+myCars[,c('Origin_Bin')] = ifelse(myCars$Origin == 'USA',1,0)
+head(myCars)
+
+fit = glm(Origin_Bin ~ Price + Weight + Length, data=myCars, family=binomial)
+summary(fit)
+
+# 1.1. Qual atributo apresenta coeficiente com pouca significância? 
+# O atributo Weight tem coeficiente com p > 0.05 e, portanto, não é significativo
+#               Estimate Std. Error t value Pr(>|t|)
+# Weight       3.824e-04  7.689e-04   0.497 0.618959 
+
+```
+1.2. Retire o atributo que apresenta o coeficiente da regressão com pouca significância e recrie o modelo sem ele. Em princípio esse será um modelo com menos hipóteses e portanto melhor. Todos os coeficientes apresentam agora p-value < 0.05 (são portanto significativos)? Qual atributo apresenta menor p-value? 
+
+**Solução**
+```{r include=FALSE}
+
+fit = glm(Origin_Bin ~ Price + Length, data=myCars, family=binomial)
+summary(fit)
+
+# Todos os coeficientes apresentam agora p-value < 0.05 (são portanto significativos)? Qual atributo apresenta menor p-value?
+
+# Sim. Atributo,
+#               Estimate Std. Error t value Pr(>|t|)
+# Length        0.10969    0.02719   4.034 5.49e-05 ***
+
+```
+1.3. Faça agora, com o modelo construído, uma predição da origem dos veículos com as características abaixo. Qual a origem estimada de cada veículo?
+
+```{r echo=FALSE}
+df = data.frame(Price=c(17.0, 19.0, 21.0), Length=c(150,170,190))
+head(df)
+```
+
+**Solução**
+```{r include=FALSE}
+df = data.frame(Price=c(17.0, 19.0, 21.0), Length=c(150,170,190))
+
+results = predict(fit, df, type='response')
+df['Origin_predicted'] = ifelse(results > 0.5,'USA','non-USA') 
+df
+
+```
+
+
+### Exercício 3
+Considere a base.
+
+```{r}
+df = read.csv('https://meusite.mackenzie.br/rogerio/TIC/FuelConsumptionCo2.csv',header=T)
+head(df)
+
+table(df$FUELTYPE)
+```
+
+1. Crie um modelo logístico para classificar os veículos, com base nos dados de consumo de combinado de combustível FUELCONSUMPTION_COMB e emissões CO2EMISSIONS, em veículos de gasolina especial 'X' e demais combustíveis (atributo FUELTYPE). 
+
+**Dica** FUELTYPE tem mais de dois valores e a regressão logística somente pode classificar em combustível 'X' ou não 'X'. Crie um novo atributo FUELX, com 1 se 'X' ou 0 caso contrário, e faça a regressão logística sobre esse valor.
+
+1.1. Todos os coeficientes são significativos?
+**Solução**
+```{r include=FALSE}
+df['FUELX'] = ifelse(df$FUELTYPE=='X',1,0)
+head(df[c('FUELTYPE','FUELX')])
+table(df$FUELX)
+
+```
+
+```{r include=FALSE}
+fit = glm(formula=FUELX ~ FUELCONSUMPTION_COMB + CO2EMISSIONS,
+          data=df,family=binomial)
+summary(fit)
+# 1.1. Todos os coeficientes são significativos?
+# Sim, todos apresentam p-value < 0.05
+```
+
+1.2. Estime a probabilidade (na verdade a 'chance logística', isto é o valor de  retorno da função logística) de um veículo com 'FUELCONSUMPTION_COMB'=9, 'CO2EMISSIONS'=180 ser um veículo de gasolina especial 'X'.
+
+**solução**
+```{r include=FALSE}
+newdata = data.frame('FUELCONSUMPTION_COMB'=9, 'CO2EMISSIONS'=180)
+prediction = predict(fit, newdata, type="response")
+prediction
+
+```
+1.3. Empregue o seu modelo  e obtenha a predição para todos os veículos da base. Compare os valores da predição com os valores reais da base. Verifique o número de acertos e erros do modelo. Qual percentual de acerto? (responda o valor entre 0 e 1, isto é 60% = 0.6)
+
+**Solução**
+```{r include=FALSE}
+newdata = df[,c('FUELCONSUMPTION_COMB', 'CO2EMISSIONS')]
+prediction = predict(fit, newdata, type="response")
+matrix = table(prediction>0.5,df$FUELX)
+matrix
+cat('percentual de acertos: ', sum(diag(matrix))/sum(matrix))
+
+```
+1.4. Adicione ao modelo os atributos ENGINESIZE e CYLINDERS e compare novamente os valores da predição com os valores reais da base. Qual percentual de acerto agora?
+(responda o valor entre 0 e 1, isto é 60% = 0.6)
+
+**Solução**
+```{r include=FALSE}
+fit = glm(formula=FUELX ~ CO2EMISSIONS + ENGINESIZE + FUELCONSUMPTION_COMB + CYLINDERS, data=df, family=binomial)
+summary(fit)
+
+newdata = df[,c('CO2EMISSIONS','ENGINESIZE','FUELCONSUMPTION_COMB','CYLINDERS')]
+prediction = predict(fit, newdata, type="response")
+matrix = table(prediction>0.5, df$FUELX)
+matrix
+cat('percentual de acertos: ', sum(diag(matrix))/sum(matrix))
+
+```
+
+### Exercício 4
+Considere a base.
+
+```{r}
+library(MASS)
+help("biopsy")
+bio = na.omit(biopsy[,-c(1)]) # 1 = ID
+bio$class = as.numeric(bio$class) - 1 
+head(bio)
+```
+
+Implemente um modelo logístico para classificação "benign" ou "malignant" das instâncias de bio. Compare os valores da sua predição com os valores reais da base.
+
+Dica: para usar todos os atributos de entrada empregue '.' no lugar das variáveis de entrada. 
+
+**Solução**
+```{r include=FALSE}
+fit = glm(formula=class ~ ., data=bio, family=binomial)
+summary(fit)
+
+newdata = bio[,-c(length(bio-1))]
+prediction = predict(fit, newdata, type="response")
+matrix = table(prediction>0.5,bio$class)
+matrix
+cat('percentual de acertos: ', sum(diag(matrix))/sum(matrix))
+
+```
+
+
+
+
+
