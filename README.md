@@ -63,7 +63,7 @@ rogerio.oliveira@mackenzie.br
 
 > [Teoria](http://meusite.mackenzie.br/rogerio/CDA2021S2/CDA_logistic.html)
 
-> [Exercícios](http://meusite.mackenzie.br/rogerio/CDA2021S2/CDA_logistic_exercicios.html)
+> [Exercícios](http://meusite.mackenzie.br/rogerio/CDA2021S2/CDA_logistic_exercicios.html) (responda em seguida o questionário no Moodle)
 
 19/09 K-Vizinhos mais Próximos | vídeo
 
