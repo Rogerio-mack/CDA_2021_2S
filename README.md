@@ -65,6 +65,9 @@ rogerio.oliveira@mackenzie.br
 
 > [Exercícios](http://meusite.mackenzie.br/rogerio/CDA2021S2/CDA_logistic_exercicios.html) (responda em seguida o questionário no Moodle)
 
+>> Material complementar [Introdução ao Aprendizado de Máquina](http://meusite.mackenzie.br/rogerio/ML/The-InfoQ-eMag-Introduction-to-Machine-Learning.pdf)
+
+
 19/09 K-Vizinhos mais Próximos | vídeo
 
 20/09 Árvores de Decisão e Outro Modelos | vídeo
