@@ -65,7 +65,7 @@ rogerio.oliveira@mackenzie.br
 
 > [Exercícios](http://meusite.mackenzie.br/rogerio/CDA2021S2/CDA_logistic_exercicios.html) (responda em seguida o questionário no Moodle)
 
->> Material complementar [Introdução ao Aprendizado de Máquina](http://meusite.mackenzie.br/rogerio/ML/The-InfoQ-eMag-Introduction-to-Machine-Learning.pdf)
+>> **Material complementar** [Introdução ao Aprendizado de Máquina](http://meusite.mackenzie.br/rogerio/ML/The-InfoQ-eMag-Introduction-to-Machine-Learning.pdf)
 
 06/09 K-Vizinhos mais Próximos | vídeo
 
@@ -73,8 +73,10 @@ rogerio.oliveira@mackenzie.br
 
 > [Exercícios](https://github.com/Rogerio-mack/CDA_2021_2S/blob/main/CDA_knn_kyphosis_exercicio.ipynb)
 
->> Material complementar:
+> **Material complementar**
+
 >> [ML playground](https://ml-playground.com/#)
+
 >> [Data Science Map - Predicting the Future - Classification - knn](https://www.saedsayad.com/k_nearest_neighbors.htm)
 
 13/09 Árvores de Decisão | vídeo
