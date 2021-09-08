@@ -73,6 +73,10 @@ rogerio.oliveira@mackenzie.br
 
 > [Exercícios](https://github.com/Rogerio-mack/CDA_2021_2S/blob/main/CDA_knn_kyphosis_exercicio.ipynb)
 
+>> Material complementar:
+>> [ML playground](https://ml-playground.com/#)
+>> [Data Science Map - Predicting the Future - Classification - knn](https://www.saedsayad.com/k_nearest_neighbors.htm)
+
 13/09 Árvores de Decisão | vídeo
 
 20/09 Outros Modelos | vídeo
