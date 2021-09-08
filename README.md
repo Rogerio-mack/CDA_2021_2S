@@ -69,6 +69,10 @@ rogerio.oliveira@mackenzie.br
 
 06/09 K-Vizinhos mais Próximos | vídeo
 
+> [Ciência de Dados com R](http://meusite.mackenzie.br/rogerio/CDABook/_book/index.html) Cap. 5
+
+> [Exercícios](https://github.com/Rogerio-mack/CDA_2021_2S/blob/main/CDA_knn_kyphosis_exercicio.ipynb)
+
 13/09 Árvores de Decisão | vídeo
 
 20/09 Outros Modelos | vídeo
