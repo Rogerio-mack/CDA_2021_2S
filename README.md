@@ -67,7 +67,7 @@ rogerio.oliveira@mackenzie.br
 
 >> **Material complementar** [Introdução ao Aprendizado de Máquina](http://meusite.mackenzie.br/rogerio/ML/The-InfoQ-eMag-Introduction-to-Machine-Learning.pdf)
 
-06/09 K-Vizinhos mais Próximos | vídeo
+06/09 K-Vizinhos mais Próximos | [vídeo](http://meusite.mackenzie.br/rogerio/videos/CDA_Aula_20210909.mp4)
 
 > [Ciência de Dados com R](http://meusite.mackenzie.br/rogerio/CDABook/_book/index.html) Cap. 5
 
