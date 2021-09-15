@@ -91,6 +91,8 @@ rogerio.oliveira@mackenzie.br
 
 >> [Comics.xlsx](http://meusite.mackenzie.br/rogerio/TIC/comics.xlsx)
 
+>> [Entropia versus Ganho de Informação](https://github.com/Rogerio-mack/CDA_2021_2S/blob/main/EntropiaGanhoInformacao.png?raw=true)
+
 20/09 Outros Modelos | vídeo
 
 27/09 Revisão | vídeo
