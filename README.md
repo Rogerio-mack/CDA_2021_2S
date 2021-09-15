@@ -81,6 +81,16 @@ rogerio.oliveira@mackenzie.br
 
 13/09 Árvores de Decisão | vídeo
 
+> [Ciência de Dados com R](http://meusite.mackenzie.br/rogerio/CDABook/_book/index.html) Cap. 6
+
+> [Exercícios](http://meusite.mackenzie.br/rogerio/CDABook/_book/index.html) constam do próprio capítulo (responda em seguida o questionário no Moodle)
+
+> **Material complementar**
+
+>> [Data Science Map - Decision Tree](http://www.saedsayad.com/decision_tree.htm)
+
+>> [Comics.xlsx](http://meusite.mackenzie.br/rogerio/TIC/comics.xlsx)
+
 20/09 Outros Modelos | vídeo
 
 27/09 Revisão | vídeo
