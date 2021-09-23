@@ -93,9 +93,11 @@ rogerio.oliveira@mackenzie.br
 
 >> [Entropia versus Ganho de Informação](https://github.com/Rogerio-mack/CDA_2021_2S/blob/main/EntropiaGanhoInformacao.png?raw=true)
 
-20/09 Outros Modelos | vídeo
+20/09 Revisão | vídeo
 
-27/09 Revisão | vídeo
+> [Resumo 1](https://github.com/Rogerio-mack/CDA_2021_2S/blob/main/CDA_Resumo_1.ipynb)
+
+27/09 Python? | vídeo
 
 04/10 **AVALIAÇÃO INTERMEDIÁRIA I**
 
