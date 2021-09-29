@@ -79,7 +79,7 @@ rogerio.oliveira@mackenzie.br
 
 >> [Data Science Map - Predicting the Future - Classification - knn](https://www.saedsayad.com/k_nearest_neighbors.htm)
 
-13/09 Árvores de Decisão | vídeo
+13/09 Árvores de Decisão | [vídeo](http://meusite.mackenzie.br/rogerio/videos/CDA_Aula_20210916.mp4)
 
 > [Ciência de Dados com R](http://meusite.mackenzie.br/rogerio/CDABook/_book/index.html) Cap. 6
 
@@ -93,7 +93,7 @@ rogerio.oliveira@mackenzie.br
 
 >> [Entropia versus Ganho de Informação](https://github.com/Rogerio-mack/CDA_2021_2S/blob/main/EntropiaGanhoInformacao.png?raw=true)
 
-20/09 Revisão | vídeo
+20/09 Revisão | [vídeo](http://meusite.mackenzie.br/rogerio/videos/CDA_Aula_20210923.mp4)
 
 > [Resumo 1](https://github.com/Rogerio-mack/CDA_2021_2S/blob/main/CDA_Resumo_1.ipynb)
 
