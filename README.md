@@ -99,7 +99,10 @@ rogerio.oliveira@mackenzie.br
 
 > [Exercícios](https://colab.research.google.com/github/Rogerio-mack/CDA_2021_2S/blob/main/CDA_Exercicio_Resumo_1.ipynb) *ver entrega da tarefa no Moodle*
 
-27/09 Python? | vídeo
+27/09 Python | [vídeo](http://meusite.mackenzie.br/rogerio/videos/CDA_Aula_20210930.mp4)
+
+> [Resumo 1 em Python](https://colab.research.google.com/github/Rogerio-mack/CDA_2021_2S/blob/main/CDA_Python.ipynb)
+
 
 04/10 **AVALIAÇÃO INTERMEDIÁRIA I**
 
