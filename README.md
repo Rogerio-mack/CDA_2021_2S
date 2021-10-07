@@ -103,8 +103,9 @@ rogerio.oliveira@mackenzie.br
 
 > [Resumo 1 em Python](https://colab.research.google.com/github/Rogerio-mack/CDA_2021_2S/blob/main/CDA_Python.ipynb)
 
-
 04/10 **AVALIAÇÃO INTERMEDIÁRIA I**
+
+> [Orientações para a avaliação N1 no Moodle](http://meusite.mackenzie.br/rogerio/videos/CDA_Aula_20211007.mp4)
 
 11/10 Kmédias | vídeo
 
