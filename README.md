@@ -107,7 +107,11 @@ rogerio.oliveira@mackenzie.br
 
 > [Orientações para a avaliação N1 no Moodle](http://meusite.mackenzie.br/rogerio/videos/CDA_Aula_20211007.mp4)
 
-11/10 Kmédias | vídeo
+11/10 Kmédias | [vídeo](http://meusite.mackenzie.br/rogerio/videos/CDA_Aula_20211014.mp4)
+
+> [Ciência de Dados com R](http://meusite.mackenzie.br/rogerio/CDABook/_book/index.html) Cap. 8
+
+> *Exercício, para entrega no Moodle, no final do capítulo
 
 18/10 Clusterização Hierárquica | vídeo
 
