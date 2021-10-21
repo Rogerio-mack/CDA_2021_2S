@@ -113,7 +113,11 @@ rogerio.oliveira@mackenzie.br
 
 > *Exercício, para entrega no Moodle, no final do capítulo
 
-18/10 Clusterização Hierárquica | vídeo
+18/10 Clusterização Hierárquica | [vídeo](http://meusite.mackenzie.br/rogerio/videos/CDA_Aula_20211021.mp4)
+
+> [Ciência de Dados com R](http://meusite.mackenzie.br/rogerio/CDABook/_book/index.html) Cap. 9
+
+> *Exercício 9.11, para entrega no Moodle, no final do capítulo
 
 25/10 Regras de Associação* | vídeo
 
