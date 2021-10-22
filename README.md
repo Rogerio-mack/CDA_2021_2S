@@ -119,6 +119,8 @@ rogerio.oliveira@mackenzie.br
 
 > *Exercício 9.11, para entrega no Moodle, no final do capítulo
 
+> [HCluster, exemplo em R](https://colab.research.google.com/github/Rogerio-mack/CDA_2021_2S/blob/main/HCluster_Exemplo_em_R.ipynb)
+
 25/10 Regras de Associação* | vídeo
 
 01/11 Sistemas de Recomendação* | vídeo
