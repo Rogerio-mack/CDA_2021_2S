@@ -121,7 +121,13 @@ rogerio.oliveira@mackenzie.br
 
 > [HCluster, exemplo em R](https://colab.research.google.com/github/Rogerio-mack/CDA_2021_2S/blob/main/HCluster_Exemplo_em_R.ipynb)
 
-25/10 Regras de Associação* | vídeo
+25/10 Regras de Associação | vídeo
+
+> [Regras de Associação em R](https://colab.research.google.com/github/Rogerio-mack/CDA_2021_2S/blob/main/CDA_AssociationRules.ipynb)
+
+> [Regras de Associação em Python](https://colab.research.google.com/github/Rogerio-mack/CDA_2021_2S/blob/main/ACD_T13_AssociationRules.ipynb)
+
+> *Exercício para entrega no Moodle, poderá ser feito em Python ou R
 
 01/11 Sistemas de Recomendação* | vídeo
 
