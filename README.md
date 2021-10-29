@@ -121,7 +121,7 @@ rogerio.oliveira@mackenzie.br
 
 > [HCluster, exemplo em R](https://colab.research.google.com/github/Rogerio-mack/CDA_2021_2S/blob/main/HCluster_Exemplo_em_R.ipynb)
 
-25/10 Regras de Associação | vídeo
+25/10 Regras de Associação | [vídeo](http://meusite.mackenzie.br/rogerio/videos/CDA_Aula_20211028.mp4)
 
 > [Regras de Associação em R](https://colab.research.google.com/github/Rogerio-mack/CDA_2021_2S/blob/main/CDA_AssociationRules.ipynb)
 
