@@ -127,9 +127,11 @@ rogerio.oliveira@mackenzie.br
 
 > [Regras de Associação em Python](https://colab.research.google.com/github/Rogerio-mack/CDA_2021_2S/blob/main/ACD_T13_AssociationRules.ipynb)
 
-> *Não haverá entrega programada para esta semana no Moodle 
+> *Veja exercícios no Moodle 
 
-01/11 Sistemas de Recomendação* | vídeo
+01/11 [Sistemas de Recomendação](https://colab.research.google.com/github/Rogerio-mack/CDA_2021_2S/blob/main/CDA_Recommentadion_Systems.ipynb) | vídeo
+
+> *Veja exercícios no Moodle 
 
 08/11 Introdução às Redes Neurais | vídeo
 
