@@ -129,7 +129,7 @@ rogerio.oliveira@mackenzie.br
 
 > *Veja exercícios no Moodle 
 
-01/11 [Sistemas de Recomendação](https://colab.research.google.com/github/Rogerio-mack/CDA_2021_2S/blob/main/CDA_Recommentadion_Systems.ipynb) | vídeo
+01/11 [Sistemas de Recomendação](https://colab.research.google.com/github/Rogerio-mack/CDA_2021_2S/blob/main/CDA_Recommentadion_Systems.ipynb) |  [vídeo](http://meusite.mackenzie.br/rogerio/videos/CDA_Aula_20211104.mp4)
 
 > *Veja exercícios no Moodle 
 
