@@ -133,9 +133,13 @@ rogerio.oliveira@mackenzie.br
 
 > *Veja exercícios no Moodle 
 
-08/11 Introdução às Redes Neurais | vídeo
+08/11 PROVA INTEGRADA. *sem atividades*
 
-15/11 Uso de Soluções de ML em Nuvem | vídeo
+15/11 Introdução às Redes Neurais | vídeo
+
+> [Ciência de Dados com R](http://meusite.mackenzie.br/rogerio/CDABook/_book/index.html) Cap. 10
+
+> *Exercício: questionário no Moodle.
 
 22/11 **AVALIAÇÃO INTERMEDIÁRIA II**
 
