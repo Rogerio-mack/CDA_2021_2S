@@ -139,13 +139,19 @@ rogerio.oliveira@mackenzie.br
 
 > [Ciência de Dados com R](http://meusite.mackenzie.br/rogerio/CDABook/_book/index.html) Cap. 10
 
-> *Exercício: questionário no Moodle.
+> *Exercício: questionário no Moodle.*
 
 22/11 **AVALIAÇÃO INTERMEDIÁRIA II**
 
+> *Fique atento: A prova estará disponível no Moodle durante a próxima semana até 25.11, a entrega é até 28.11*
+
 29/11 **SUB**
 
-13/12 **PROVA FINAL**
+> *Prova: 02.12, entrega 03.12*
+
+06/12 **PROVA FINAL**
+
+> *Prova: 09.12, entrega 10.12*
 
 
 
