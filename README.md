@@ -111,7 +111,7 @@ rogerio.oliveira@mackenzie.br
 
 > [Ciência de Dados com R](http://meusite.mackenzie.br/rogerio/CDABook/_book/index.html) Cap. 8
 
-> *Exercício, para entrega no Moodle, no final do capítulo
+> *Exercício, para entrega no Moodle, no final do capítulo* [**Errata, acesse aqui o path correto do arquivo Wholesale do Exercício**](https://colab.research.google.com/drive/1688SDI6rXAdkDqsan1aQ5nFrK2r-51I8?usp=sharing)
 
 18/10 Clusterização Hierárquica | [vídeo](http://meusite.mackenzie.br/rogerio/videos/CDA_Aula_20211021.mp4)
 
