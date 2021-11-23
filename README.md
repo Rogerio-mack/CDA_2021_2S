@@ -145,7 +145,7 @@ rogerio.oliveira@mackenzie.br
 
 22/11 **AVALIAÇÃO INTERMEDIÁRIA II**
 
-> *Fique atento: A prova estará disponível no Moodle durante a próxima semana até 25.11, a entrega é até 28.11*
+> *Fique atento: Prova já disponível no Moodle, entrega é até 28.11*
 
 29/11 **SUB**
 
