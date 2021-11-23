@@ -131,6 +131,8 @@ rogerio.oliveira@mackenzie.br
 
 01/11 [Sistemas de Recomendação](https://colab.research.google.com/github/Rogerio-mack/CDA_2021_2S/blob/main/CDA_Recommentadion_Systems.ipynb) |  [vídeo](http://meusite.mackenzie.br/rogerio/videos/CDA_Aula_20211104.mp4)
 
+> [Sistema de Recomendação em R, Recomendando Contatos de uma Rede Social](https://colab.research.google.com/github/Rogerio-mack/CDA_2021_2S/blob/main/CDA_Recomendation_System_in_R.ipynb)
+
 > *Veja exercícios no Moodle 
 
 08/11 PROVA INTEGRADA. *sem atividades*
