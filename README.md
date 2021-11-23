@@ -137,7 +137,7 @@ rogerio.oliveira@mackenzie.br
 
 08/11 PROVA INTEGRADA. *sem atividades*
 
-15/11 Introdução às Redes Neurais | vídeo
+15/11 Introdução às Redes Neurais | [vídeo](http://meusite.mackenzie.br/rogerio/videos/CDA_Aula_20211118.mp4)
 
 > [Ciência de Dados com R](http://meusite.mackenzie.br/rogerio/CDABook/_book/index.html) Cap. 10
 
