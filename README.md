@@ -147,14 +147,9 @@ rogerio.oliveira@mackenzie.br
 
 > *Fique atento: Prova já disponível no Moodle, entrega é até 28.11*
 
-29/11 **SUB**
+**SUB** *Ver no Moodle* 
 
-> *Prova: 02.12, entrega 03.12*
-
-06/12 **PROVA FINAL**
-
-> *Prova: 09.12, entrega 10.12*
-
+**PROVA FINAL** *Ver no Moodle*
 
 
 <br />
